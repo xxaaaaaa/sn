@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zcy@10.66.27.134:22 password" remoteFilesAllowedToDisappearOnAutoupload="false" compareModeInSync="SIZE">
+    <serverData>
+      <paths name="test">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/data/zcy/project1" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zcy@10.66.27.134:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/data/zcy/project1" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zcy@10.66.27.134:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
